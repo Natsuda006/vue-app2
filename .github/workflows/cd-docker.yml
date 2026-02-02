@@ -3,7 +3,7 @@ name: 'build and deploy production'
 on:
   push:
     tags:
-      - 'main'
+      - 'xxxx'
 
 jobs:
   release-docker-image-job:
